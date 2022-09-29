@@ -1,0 +1,12 @@
+C:\Users\Strievskiy-N\Documents\Работа\MindBox\CountAreaLibrary\CountAreaLibrary\bin\Debug\net6.0\CountAreaLibrary.deps.json
+C:\Users\Strievskiy-N\Documents\Работа\MindBox\CountAreaLibrary\CountAreaLibrary\bin\Debug\net6.0\CountAreaLibrary.dll
+C:\Users\Strievskiy-N\Documents\Работа\MindBox\CountAreaLibrary\CountAreaLibrary\bin\Debug\net6.0\CountAreaLibrary.pdb
+C:\Users\Strievskiy-N\Documents\Работа\MindBox\CountAreaLibrary\CountAreaLibrary\obj\Debug\net6.0\CountAreaLibrary.csproj.AssemblyReference.cache
+C:\Users\Strievskiy-N\Documents\Работа\MindBox\CountAreaLibrary\CountAreaLibrary\obj\Debug\net6.0\CountAreaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Strievskiy-N\Documents\Работа\MindBox\CountAreaLibrary\CountAreaLibrary\obj\Debug\net6.0\CountAreaLibrary.AssemblyInfoInputs.cache
+C:\Users\Strievskiy-N\Documents\Работа\MindBox\CountAreaLibrary\CountAreaLibrary\obj\Debug\net6.0\CountAreaLibrary.AssemblyInfo.cs
+C:\Users\Strievskiy-N\Documents\Работа\MindBox\CountAreaLibrary\CountAreaLibrary\obj\Debug\net6.0\CountAreaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Strievskiy-N\Documents\Работа\MindBox\CountAreaLibrary\CountAreaLibrary\obj\Debug\net6.0\CountAreaLibrary.dll
+C:\Users\Strievskiy-N\Documents\Работа\MindBox\CountAreaLibrary\CountAreaLibrary\obj\Debug\net6.0\refint\CountAreaLibrary.dll
+C:\Users\Strievskiy-N\Documents\Работа\MindBox\CountAreaLibrary\CountAreaLibrary\obj\Debug\net6.0\CountAreaLibrary.pdb
+C:\Users\Strievskiy-N\Documents\Работа\MindBox\CountAreaLibrary\CountAreaLibrary\obj\Debug\net6.0\ref\CountAreaLibrary.dll
